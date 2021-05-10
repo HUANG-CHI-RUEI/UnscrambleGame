@@ -9,3 +9,6 @@ to make a word using all the letters from the displayed scrambled word.
 Used in the [Android Basics with Kotlin](https://developer.android
 .com/courses/android-basics-kotlin/course) course.
 
+## Screenshots
+
+![Screenshot1](1.png)
