@@ -11,4 +11,4 @@ Used in the [Android Basics with Kotlin](https://developer.android
 
 ## Screenshots
 
-![Screenshot1](screenshots/1.png)
+![Screenshot1](screenshots/1.PNG)
