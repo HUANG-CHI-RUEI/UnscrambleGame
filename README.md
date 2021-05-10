@@ -11,4 +11,3 @@ Used in the [Android Basics with Kotlin](https://developer.android
 
 ## Screenshots
 
-![Screenshot1](1.png)
